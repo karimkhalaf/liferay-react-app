@@ -17,8 +17,8 @@ Make sure you have the following installed on your system:
 Download the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/karimkhalaf/liferay-react-app.git 
+cd liferay-react-app
 ```
 
 ### Step 2: Create a .env file
